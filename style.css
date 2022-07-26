@@ -7,3 +7,9 @@
   color: black;
   margin-right: 0.5rem;
 }
+
+.my-toast {
+  position: absolute;
+  right: 0;
+  top: 0;
+}
